@@ -1,0 +1,21 @@
+design,race_audit,payer_code,population_N,sample_n
+primary,African American,MC,2676,69
+primary,African American,MD,665,47
+primary,Asian,MC,79,3
+primary,Asian,MD,32,2
+primary,Caucasian,MC,16028,212
+primary,Caucasian,MD,1182,53
+primary,Hispanic,MC,195,4
+primary,Hispanic,MD,134,3
+primary,Other,MC,183,4
+primary,Other,MD,74,3
+near_proportional,African American,MC,2676,50
+near_proportional,African American,MD,665,13
+near_proportional,Asian,MC,79,2
+near_proportional,Asian,MD,32,2
+near_proportional,Caucasian,MC,16028,295
+near_proportional,Caucasian,MD,1182,23
+near_proportional,Hispanic,MC,195,5
+near_proportional,Hispanic,MD,134,4
+near_proportional,Other,MC,183,4
+near_proportional,Other,MD,74,2
